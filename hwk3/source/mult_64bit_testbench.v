@@ -1,0 +1,41 @@
+`define CLOCK 4
+//`timescale 1 ps / 1 ps
+module mult_64bit_testbench();
+
+
+	//module mult_64bit(product, a, b, clk);
+
+	reg [31:0] a, b;
+	reg clk;
+	wire [63:0] product;
+
+	mult_64bit mult64(product, a, b, clk);
+	
+	initial begin
+	clk = 1'b0;
+	a = 32'b0000_0000_0000_0000_0000_0000_0000_0011;
+	b = 32'b0000_0000_0000_0000_0000_0000_0000_0010;
+	//1st cycle
+	#3200
+	a = 32'b0000_0000_0000_0000_0000_1100_0000_0011;
+	b = 32'b0000_0000_0000_0000_0000_0111_0000_0010;
+	#5200
+	a = 32'b0000_0000_0000_0000_0000_0100_0000_1010;
+	b = 32'b0000_0000_0000_0000_0000_0100_0110_0010;
+	#7000 $finish;
+	end
+	
+	//define clock cycle
+	always
+		begin
+			#4 clk = ~clk;
+		end
+		
+	initial begin
+	$monitor("time=%2d, product=%64b"
+	          ,$time, product);
+	end
+	
+	
+
+endmodule

@@ -1,0 +1,59 @@
+Quartus II Archive log --	C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/171044095mips.qarlog
+
+Archive:	C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/171044095mips.qar
+Date:		Fri Jan 07 15:23:29 2022
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/_xor.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/adder_32bit.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/adder_32bit_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_1bit.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_1bit_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_32bit.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_32bit_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_control_unit.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_control_unit_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/assignment_defaults.qdf
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/data_memory.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/data_memory_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/db/project03.db_info
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/full_adder.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/full_adder_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/half_adder.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/half_adder_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/immediate_extender.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/immediate_extender_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/incremental_db/compiled_partitions/project03.db_info
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/instruction_memory_block.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/instruction_memory_block_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/instruction_splitter.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/instruction_splitter_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/main_control_unit.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/main_control_unit_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mips_registers.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mips_registers_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux2x1.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux2x1_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux8x1.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux8x1_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux_32bit.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux_32bit_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/program_counter_unit.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/program_counter_unit_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/project03.qpf
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/project03.qsf
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/register_data.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/shift_left_2_32bit.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/shift_left_2_32bit_testbench.v
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/simulation/modelsim/data.txt
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/simulation/modelsim/instruction_data.txt
+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/simulation/modelsim/registers.mem
+	======= Total: 48 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

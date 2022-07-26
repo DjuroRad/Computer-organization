@@ -1,0 +1,13 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/_xor.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_1bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_32bit.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux2x1.v}
+vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux8x1.v}
+

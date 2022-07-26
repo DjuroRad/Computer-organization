@@ -1,0 +1,177 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do project03_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MiniMIPS
+# 
+# Top level modules:
+# 	MiniMIPS
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mips_registers.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_registers
+# 
+# Top level modules:
+# 	mips_registers
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/_xor.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _xor
+# 
+# Top level modules:
+# 	_xor
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/adder_32bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module adder_32bit
+# 
+# Top level modules:
+# 	adder_32bit
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_1bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_1bit
+# 
+# Top level modules:
+# 	alu_1bit
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_32bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_32bit
+# 
+# Top level modules:
+# 	alu_32bit
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_control_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_control_unit
+# 
+# Top level modules:
+# 	alu_control_unit
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/full_adder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module full_adder
+# 
+# Top level modules:
+# 	full_adder
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/half_adder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module half_adder
+# 
+# Top level modules:
+# 	half_adder
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/immediate_extender.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module immediate_extender
+# 
+# Top level modules:
+# 	immediate_extender
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/instruction_splitter.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module instruction_splitter
+# 
+# Top level modules:
+# 	instruction_splitter
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/main_control_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module main_control_unit
+# 
+# Top level modules:
+# 	main_control_unit
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux_32bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_32bit
+# 
+# Top level modules:
+# 	mux_32bit
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux2x1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux2x1
+# 
+# Top level modules:
+# 	mux2x1
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux5x1
+# 
+# Top level modules:
+# 	mux5x1
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux8x1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux8x1
+# 
+# Top level modules:
+# 	mux8x1
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/data_memory.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module data_memory
+# 
+# Top level modules:
+# 	data_memory
+# vlog -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored {C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/program_counter_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module program_counter_unit
+# 
+# Top level modules:
+# 	program_counter_unit
+# 
+vlog -reportprogress 300 -work work C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MiniMIPS_testbench
+# 
+# Top level modules:
+# 	MiniMIPS_testbench
+vsim work.MiniMIPS_testbench
+# vsim work.MiniMIPS_testbench 
+# Loading work.MiniMIPS_testbench
+# Loading work.MiniMIPS
+# Loading work.instruction_splitter
+# Loading work.main_control_unit
+# Loading work.alu_control_unit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work._xor
+# Loading work.mux8x1
+# Loading work.mux2x1
+# Loading work.mux5x1
+# Loading work.immediate_extender
+# Loading work.mux_32bit
+# Loading work.program_counter_unit
+# Loading work.adder_32bit
+# Loading work.full_adder
+# Loading work.half_adder
+# Loading work.mips_registers
+# Loading work.data_memory
+# ** Warning: (vsim-3015) C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS.v(48): [PCDPC] - Port size (5 or 5) does not match connection size (3) for port 'result'. The port definition is at: C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1.v(1).
+# 
+#         Region: /MiniMIPS_testbench/minimips/mux5
+# ** Warning: (vsim-3015) C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS.v(48): [PCDPC] - Port size (5 or 5) does not match connection size (3) for port 'num1'. The port definition is at: C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1.v(1).
+# 
+#         Region: /MiniMIPS_testbench/minimips/mux5
+# ** Warning: (vsim-3015) C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS.v(48): [PCDPC] - Port size (5 or 5) does not match connection size (3) for port 'num2'. The port definition is at: C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1.v(1).
+# 
+#         Region: /MiniMIPS_testbench/minimips/mux5
+add wave -position insertpoint  \
+sim:/MiniMIPS_testbench/instruction \
+sim:/MiniMIPS_testbench/clk \
+sim:/MiniMIPS_testbench/result
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: Djuro  Hostname: DESKTOP-M682N53  ProcessID: 19396
+# 
+#           Attempting to use alternate WLF file "./wlft8x78rn".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlft8x78rn
+# 
+step -current
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 33 of file "data.txt". (Current address [32], address range [0:31])    : C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS_testbench.v(13)
+#    Time: 0 ps  Iteration: 0  Instance: /MiniMIPS_testbench
+# ** Note: $finish    : C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS_testbench.v(129)
+#    Time: 1300 ps  Iteration: 0  Instance: /MiniMIPS_testbench
+# 1
+# Break in Module MiniMIPS_testbench at C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS_testbench.v line 129

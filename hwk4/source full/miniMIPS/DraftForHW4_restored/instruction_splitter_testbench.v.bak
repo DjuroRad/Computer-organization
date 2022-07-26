@@ -1,0 +1,21 @@
+`define DELAY 20
+module instruction_splitter_testbench();
+	
+	wire [5:0] funct;
+	wire[15:0] immed;
+	wire [4:0] rs, rt, rd;
+	wire [5:0] opcode;
+	reg [31:0] instruction;
+	//(opcode, rs, rt, rd, immed, funct, instruction);
+	instruction_splitter is(opcode, rs, rt, rd, immed, funct, instruction);
+		
+	initial begin
+	//add
+	instruction =32'b0000_0000_0000_0000_0000_0000_0000_1101;
+	#`DELAY;
+	end
+	initial begin
+	$monitor("time=%2d,a=%32b"
+	          ,$time, instruction);
+	end
+endmodule

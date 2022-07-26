@@ -1,0 +1,387 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\workspace\miniMIPS\DraftForHW4_restored\simulation\modelsim
+v_xor
+Iz;1h3lCO7Z;cMkW0HL]HG3
+Vf==RPndZP6E>FB`K9U<Nf3
+Z1 dC:\altera\13.1\workspace\miniMIPS\DraftForHW4_restored\simulation\modelsim
+w1641328981
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/_xor.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/_xor.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored -O0
+n@_xor
+!i10b 1
+!s100 :ziU>5:aT3<jJ7Pk>`BPZ2
+!s85 0
+!s108 1641528175.915000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/_xor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/_xor.v|
+!s101 -O0
+vadder_32bit
+I:10U7Z?I6mP`AeI<`_Z6C0
+VZ4^SG<0E]KlYSd<lNzW0b0
+R1
+w1641328993
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/adder_32bit.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/adder_32bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 cJNY<0a[<N8cgBFX1]Mb12
+!s85 0
+!s108 1641528176.003000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/adder_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/adder_32bit.v|
+!s101 -O0
+valu_1bit
+Im<YN2]?6Zn89ECaPZMO9j1
+VA8@YTXL]jc6]`B4`@AA=Y1
+R1
+w1641329138
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_1bit.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_1bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 k[bmnEiYYE4PUfBbZ?3VB3
+!s85 0
+!s108 1641528176.104000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_1bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_1bit.v|
+!s101 -O0
+valu_32bit
+In8X694_FEZ6[Y=2[9413L0
+VJN`dah9@4_G=EGP^7K=Ue1
+R1
+w1641334212
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_32bit.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_32bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ZNk:40OS?bgVVR82iTYMI3
+!s85 0
+!s108 1641528176.204000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_32bit.v|
+!s101 -O0
+valu_control_unit
+I0NG6iz[=_6<86dERNA==F0
+VJORS:ELaEkh=l;b[gklU]0
+R1
+w1641329206
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_control_unit.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_control_unit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 gX8Zz6FVPVE=?YfT4oO]:2
+!s85 0
+!s108 1641528176.300000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/alu_control_unit.v|
+!s101 -O0
+vdata_memory
+IEmj<N3BYY@VV=f0;CUPZl2
+VCk`Vf0P9WaGbWi2PhTf9_3
+R1
+w1641390595
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/data_memory.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/data_memory.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 _LlSb;?ZL@__ZU?>25hf73
+!s85 0
+!s108 1641528177.298000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/data_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/data_memory.v|
+!s101 -O0
+vfull_adder
+I?`e<KML25PA;6m<MmEi^13
+VRYP>nD9R>G8ML@J?Oi=:32
+R1
+w1641329238
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/full_adder.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/full_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 Ldg3ACz:EX@Nk`1nOATFY0
+!s85 0
+!s108 1641528176.397000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/full_adder.v|
+!s101 -O0
+vhalf_adder
+IT1Nh8a@iF?Z0MJghTS<SR3
+VUANSHBM`n;lleGcSze4Z^1
+R1
+w1641329266
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/half_adder.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/half_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 F[I@^C0U6YSV^?FfK_Jh=0
+!s85 0
+!s108 1641528176.493000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/half_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/half_adder.v|
+!s101 -O0
+vimmediate_extender
+I=OO;anFAL>gJDVaiiEoWB1
+VHPoU]VZo0iVNm_dD1@]ka3
+R1
+w1641329299
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/immediate_extender.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/immediate_extender.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ZC[TUHg5B]@Q<n07HmeN33
+!s85 0
+!s108 1641528176.586000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/immediate_extender.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/immediate_extender.v|
+!s101 -O0
+vinstruction_splitter
+I]6OgdC7@Mg:Z9a>WBZBlL0
+VkZS1n14fX096b1ENE^9o70
+R1
+w1641331920
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/instruction_splitter.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/instruction_splitter.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 l5@AHX62<YinmCd^gG?VL2
+!s85 0
+!s108 1641528176.680000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/instruction_splitter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/instruction_splitter.v|
+!s101 -O0
+vmain_control_unit
+Ig02V<8j>G^SXOM_faFMGO2
+V4_PN`MAjUzl3f_DN;PVI>2
+R1
+w1641329813
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/main_control_unit.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/main_control_unit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 c7=EF5>a2;LZFYVf5nCH^2
+!s85 0
+!s108 1641528176.771000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/main_control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/main_control_unit.v|
+!s101 -O0
+vMiniMIPS
+I1ND[acD>XFDGo:gfc<YQo0
+Vl]NRe0gFEIlcR>GBOh5WU2
+R1
+w1641518731
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS.v
+L0 1
+R2
+r1
+31
+R3
+n@mini@m@i@p@s
+R4
+!i10b 1
+!s100 eSgM;g@JfjdghI1b6OH@T3
+!s85 0
+!s108 1641528175.662000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS.v|
+!s101 -O0
+vMiniMIPS_testbench
+!i10b 1
+!s100 9UzKhLMZzGe1oB2o0UD1>2
+IF>Nioomfl^<iTTWGJ@GB^3
+VY0QJ?izkTI2LTl>WTToO32
+R1
+w1641528148
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS_testbench.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS_testbench.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1641528201.037000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/MiniMIPS_testbench.v|
+!s101 -O0
+o-work work -O0
+n@mini@m@i@p@s_testbench
+vmips_registers
+Ieak735O_T44HTQdj]>P6S0
+VE>]h3dICm6fDHDln3F5;Y3
+R1
+w1640190046
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mips_registers.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mips_registers.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 8m8FA56ZG=L7NmEjd:X:K2
+!s85 0
+!s108 1641528175.817000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mips_registers.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mips_registers.v|
+!s101 -O0
+vmux2x1
+I1oVEgdbK@4chCnQ7?cFcg1
+V:HZZXHQfPnF8Ih8=oHK?b2
+R1
+w1641329464
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux2x1.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux2x1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 0l_f`i7E]RLh:?i8iD``52
+!s85 0
+!s108 1641528176.967000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux2x1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux2x1.v|
+!s101 -O0
+vmux5x1
+Ig3WK1o0Q[PK7TjPf`9B513
+VGg2nDdCY:hJMQam9cA7zY0
+R1
+w1641329493
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3?SVJ9zmgj>@_[ZI4=_5m0
+!s85 0
+!s108 1641528177.080000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux5x1.v|
+!s101 -O0
+vmux8x1
+ITSDn76B65j<88h4:Q[LL30
+V9^a]IGLLkno`2I;hOP>ZU2
+R1
+w1641329533
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux8x1.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux8x1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 z`R4fmAnIS@>A`0XX8`XV1
+!s85 0
+!s108 1641528177.187000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux8x1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux8x1.v|
+!s101 -O0
+vmux_32bit
+Ig>lHemeMMR_1gAVc1<HVR3
+VUbW3YO88gSkL^C>l[HiMb2
+R1
+w1641329439
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux_32bit.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux_32bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 :M8Vz3zcjPXzSoO3ln@l72
+!s85 0
+!s108 1641528176.868000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/mux_32bit.v|
+!s101 -O0
+vprogram_counter_unit
+I3j`V_:cRK7DEbaSKTM1@G3
+VZB1g`CdD4K:BcheMXl04b3
+R1
+w1641402915
+8C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/program_counter_unit.v
+FC:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/program_counter_unit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 lYbQ9V:iQf6QZ;_4Gc=Nf0
+!s85 0
+!s108 1641528177.408000
+!s107 C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/program_counter_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored|C:/altera/13.1/workspace/miniMIPS/DraftForHW4_restored/program_counter_unit.v|
+!s101 -O0
